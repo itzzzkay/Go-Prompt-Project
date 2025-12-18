@@ -15,10 +15,20 @@ Create a simple desktop GUI application that allows users to add and manage task
 
 ## AI Prompt Journal
 
-Prompt: Explain Go programming for a beginner  
-What I learned: Go programs start from a main function and use packages  
-Reflection: This helped me understand how Go is structured
+### Prompt 1
+**Prompt:** Teach me Go programming for complete beginners.  
+**Outcome:** Helped me understand Go syntax, packages, and program structure.  
+**Reflection:** AI made it easier to grasp Go fundamentals quickly.
 
+### Prompt 2
+**Prompt:** How do I build a simple GUI application in Go using Fyne?  
+**Outcome:** Learned how to create windows, buttons, and input fields.  
+**Reflection:** This reduced setup time and clarified GUI concepts.
+
+### Prompt 3
+**Prompt:** Suggest a beginner-friendly Go project using a GUI.  
+**Outcome:** Helped shape the task tracker idea and overall app flow.  
+**Reflection:** AI helped convert abstract ideas into a concrete project.
 ---
 
 ## 2. Quick Summary of the Technology
