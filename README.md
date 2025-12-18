@@ -13,6 +13,12 @@ I chose Go because it is a modern, beginner-friendly programming language used i
 **End Goal:**
 Create a simple desktop GUI application that allows users to add and manage tasks.
 
+## AI Prompt Journal
+
+Prompt: Explain Go programming for a beginner  
+What I learned: Go programs start from a main function and use packages  
+Reflection: This helped me understand how Go is structured
+
 ---
 
 ## 2. Quick Summary of the Technology
